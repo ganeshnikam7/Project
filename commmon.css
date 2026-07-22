@@ -1,0 +1,19 @@
+.bg-creamy{
+    background-color: #dfe3a5;
+}
+.bg-lightg {
+    background-color: rgb(77, 205, 77);
+}
+.t_transform{
+    padding-top: 111px;
+    
+}
+.banner{
+    background: url(images/Slider\ img\ fruits.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 17rem;
+    padding-bottom: 10rem;
+    min-height: auto;
+}
