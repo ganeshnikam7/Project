@@ -39,3 +39,13 @@ body{
             font-family:Arial, Helvetica, sans-serif;
             background:#f8f9fa;
 }
+
+.form-control{
+    padding:12px;
+    border-radius:8px;
+}
+
+.form-control:focus{
+    border-color:#198754;
+    box-shadow:0 0 8px rgba(25,135,84,.25);
+}
